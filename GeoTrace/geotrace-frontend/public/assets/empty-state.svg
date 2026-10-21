@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="50" stroke="#1C3048" stroke-width="2" fill="#101D30"/>
+  <path d="M30 60h60M60 30v60" stroke="#1C3048" stroke-width="1"/>
+  <circle cx="60" cy="45" r="8" fill="#38BDF8" opacity="0.3"/>
+  <path d="M45 75 Q60 55 75 75" stroke="#94A3B8" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="60" y="105" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#94A3B8">No data</text>
+</svg>

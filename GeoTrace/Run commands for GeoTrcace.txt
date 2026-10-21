@@ -1,0 +1,14 @@
+Run commands for GeoTrcace
+
+1. Backend:
+cd GeoTrace/geotrace-backend
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python run.py
+
+
+2. Frontend
+cd GeoTrace/geotrace-frontend
+npm ci
+npm run dev
